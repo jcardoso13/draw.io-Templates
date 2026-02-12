@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.8" pages="2">
   <diagram name="Page-1" id="Fx6XhSYBcAZFX8ACo-1_">
     <mxGraphModel dx="2878" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,6 +81,53 @@
         </mxCell>
         <mxCell id="kFDSUPmSZn-Y5o2Lh6qr-116" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#FFFFFF;fontStyle=1" value="&lt;div&gt;Automação de processos:&lt;/div&gt;&lt;div&gt;1- Builds para Artifactory&lt;/div&gt;&lt;div&gt;2- Pipelines CI/CD para projetos atualmente em TFS&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="280" x="-680" y="570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-1" id="i5ahI2in5B4EivNzqixH">
+    <mxGraphModel dx="2878" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="C6P_JbiKBR6rbBGzia5--0" />
+        <mxCell id="C6P_JbiKBR6rbBGzia5--1" parent="C6P_JbiKBR6rbBGzia5--0" />
+        <mxCell id="btkYeACYbiTNgwZB_UfD-35" parent="C6P_JbiKBR6rbBGzia5--1" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" value="" vertex="1">
+          <mxGeometry height="10" width="1000" x="-1170" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="btkYeACYbiTNgwZB_UfD-36" parent="C6P_JbiKBR6rbBGzia5--1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" value="&lt;b&gt;Fase 0&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="-1090" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="btkYeACYbiTNgwZB_UfD-37" parent="C6P_JbiKBR6rbBGzia5--1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" value="&lt;span&gt;&lt;b&gt;Fase 2&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="-637" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="btkYeACYbiTNgwZB_UfD-38" parent="C6P_JbiKBR6rbBGzia5--1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" value="&lt;b&gt;Fase 1&lt;/b&gt;" vertex="1">
+          <mxGeometry height="35" width="160" x="-863" y="895" as="geometry" />
+        </mxCell>
+        <mxCell id="btkYeACYbiTNgwZB_UfD-39" parent="C6P_JbiKBR6rbBGzia5--1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" value="&lt;span&gt;&lt;b&gt;Fase Extra&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="35" width="160" x="-410" y="895" as="geometry" />
+        </mxCell>
+        <mxCell id="btkYeACYbiTNgwZB_UfD-40" parent="C6P_JbiKBR6rbBGzia5--1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="-1020" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="btkYeACYbiTNgwZB_UfD-41" parent="C6P_JbiKBR6rbBGzia5--1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="-793" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="btkYeACYbiTNgwZB_UfD-42" parent="C6P_JbiKBR6rbBGzia5--1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="-567" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="btkYeACYbiTNgwZB_UfD-43" parent="C6P_JbiKBR6rbBGzia5--1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="-340" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="btkYeACYbiTNgwZB_UfD-44" parent="C6P_JbiKBR6rbBGzia5--1" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" value="&lt;h1&gt;Levantamento&lt;/h1&gt;&lt;p&gt;Levantamento de Repositórios em TFS&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="215" x="-1117" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="btkYeACYbiTNgwZB_UfD-45" parent="C6P_JbiKBR6rbBGzia5--1" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" value="&lt;h1&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Piloto&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 13px; font-weight: 400;&quot;&gt;Script/Pipeline para Migração&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px; font-weight: 400;&quot;&gt;Estimativa Final&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="215" x="-891" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="btkYeACYbiTNgwZB_UfD-46" parent="C6P_JbiKBR6rbBGzia5--1" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" value="&lt;h1&gt;Migração&lt;/h1&gt;&lt;p&gt;Migração dos 205 repositórios e das build definitions. Criação das Equipas em Github&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="215" x="-665" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="btkYeACYbiTNgwZB_UfD-47" parent="C6P_JbiKBR6rbBGzia5--1" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" value="&lt;h1&gt;Deploy CI/CD&lt;/h1&gt;&lt;p&gt;Automatização de processos de workflows em TFS que são feitos manualmente através de Github Actions&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="215" x="-437" y="720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
